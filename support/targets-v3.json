@@ -9,11 +9,11 @@
       ],
       "kernelVersions": ["5.15.189"],
       "exploit": {
-        "url": "https://github.com/KuonjiUkyo/Root-My-Galaxy-Payloads/blob/main/artifacts/dm1q-SC51DOMS1EZG1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/artifacts/dm1q-SC51DOMS1EZG1/cve-2026-43499-app.so",
         "size": 133704
       },
       "kernelsu": {
-        "url": "https://github.com/KuonjiUkyo/Root-My-Galaxy-Payloads/blob/main/kernelsu/android13-5.15.189_kernelsu-dm1q-SC51DOMS1EZG1.ko",
+        "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/kernelsu//android13-5.15.189_kernelsu-dm1q-SC51DOMS1EZG1.ko",
         "size": 356928
       }
     }
