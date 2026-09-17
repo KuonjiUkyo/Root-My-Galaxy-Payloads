@@ -10,7 +10,7 @@
       "kernelVersions": ["5.15.189"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/artifacts/dm1q-SC51DOMS1EZG1/cve-2026-43499-app.so",
-        "size": 133704
+        "size": 133256
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm1q-SC51DOMS1EZG1-kdp",
