@@ -16,7 +16,21 @@
         "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm1q-SC51DOMS1EZG1-kdp",
         "size": 6744944
       }
+     {
+      "payloadId": "dm1q-SC51DOMS1EZG1",
+      "displayName": "SC51DOMS1EZG1Lite",
+      "models": [
+        "SC-51D"
+      ],
+      "kernelVersions": ["5.15.189"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/artifacts/dm1q-SC51DOMS1EZG1/cve-2026-43499-app.so",
+        "size": 133256
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/KuonjiUkyo/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm1q-SC51DOMS1EZG1-kdp-v2",
+        "size": 5455488
+      }
     }
   ]
 }
-
